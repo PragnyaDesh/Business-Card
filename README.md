@@ -1,2 +1,2 @@
 # Business-Card
-A static react app to practice my react skills.
+A static react app made to practice my react skills.
